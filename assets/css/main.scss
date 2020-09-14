@@ -1,0 +1,30 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.author__avatar img {
+	border-radius: 0 !important;
+	max-width: initial !important;
+}
+
+.social-icons {
+	.fa-apple {
+		color: #8c3fc5;
+	}
+	.fa-spotify {
+		color: #68d36e;
+	}
+	.fa-podcast {
+		color: #62b0c1;
+	}
+}
+
+@media (min-width: 64em) { .sidebar {
+	opacity: 100% !important;
+}
+}

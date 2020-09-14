@@ -13,25 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: The Brent and Skye Show
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A podcast about growing up ... but not too fast!
+  After a 12-year hiatus, we're back and better than ever.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /ep/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -58,34 +57,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "The Brent and Skye Show!"
+  avatar : "/assets/images/bas-logo-1024.png"
+  bio    : "A podcast about growing up ... but not too fast! After a 12-year hiatus, we're back and better than ever."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Apple Podcasts"
+      icon: "fab fa-fw fa-apple"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Spotify"
+      icon: "fab fa-fw fa-spotify"
+      url: "https://"
+    - label: "Overcast"
+      icon: "fas fa-fw fa-podcast"
+      url: "https://"
+    - label: "RSS"
+      icon: "fas fa-fw fa-rss-square"
+      url: "https://"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Apple Podcasts"
+      icon: "fab fa-fw fa-apple"
+      url: "https://"
+    - label: "Spotify"
+      icon: "fab fa-fw fa-spotify"
+      url: "https://"
+    - label: "Overcast"
+      icon: "fas fa-fw fa-podcast"
+      url: "https://"
+    - label: "RSS"
+      icon: "fas fa-fw fa-rss-square"
+      url: "https://"
 
 defaults:
   # _posts
@@ -95,10 +97,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      show_date: true
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
@@ -106,6 +109,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # sidebar for all pages
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        - title: "Hello!"
+          text: "We're home!"
+
+
+
 
 category_archive:
   type: liquid

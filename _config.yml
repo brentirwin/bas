@@ -61,6 +61,12 @@ author:
   avatar : "/assets/images/bas-logo-1024.png"
   bio    : "A podcast about growing up ... but not too fast! After a 12-year hiatus, we're back and better than ever."
   links:
+    - label: "Email us!"
+      icon: "far fa-fw fa-envelope"
+      url: "mailto://brentandskye@gmail.com"
+    - label: "Leave a message!"
+      icon: "fas fa-fw fa-phone"
+      url: "https://"
     - label: "Apple Podcasts"
       icon: "fas fa-fw fa-podcast"
       url: "https://"
@@ -91,6 +97,7 @@ footer:
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
       url: "https://"
+
 
 defaults:
   # _posts

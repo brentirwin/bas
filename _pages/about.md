@@ -3,6 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The Brent and Skye Show is weekly podcast about growing up… but not too fast! After a 12-year hiatus, these lifelong best friends are back and better than ever. Join us in an uplifting weekly phone call where we share stories, reminisce on the past, and contemplate who we're growing up to be. Look forward to new episodes every Friday.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### Subscribe
+
+Subscribe in your favorite podcast app using the links in the sidebar!
+
+Find shownotes for every episode, download links, and even listen to the show right here on brentandskye.com. Shownotes can also be found in supported podcast apps.
+
+### Contact
+
+[Send an email (brentandskye@gmail.com)](mailto:brentandskye@gmail.com) or [leave us a voice message](https://anchor.fm/brentandskyke/message) if you have your own stories to tell or reactions to share! We just might include your message on the show!
+
+### Listen
+
+<iframe src="https://anchor.fm/brentandskye/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

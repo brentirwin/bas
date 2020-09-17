@@ -16,7 +16,7 @@
 title: The Brent and Skye Show
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A podcast about growing up ... but not too fast!
+  A podcast about growing up... but not too fast!
   After a 12-year hiatus, we're back and better than ever.
 twitter_username: username
 github_username: username
@@ -59,14 +59,14 @@ plugins:
 author:
   name   : "The Brent and Skye Show!"
   avatar : "/assets/images/bas-logo-1024.png"
-  bio    : "A podcast about growing up ... but not too fast! After a 12-year hiatus, we're back and better than ever."
+  bio    : "A podcast about best friends growing up… but not too fast!"
   links:
     - label: "Email us!"
       icon: "far fa-fw fa-envelope"
       url: "mailto:brentandskye@gmail.com"
     - label: "Leave a message!"
       icon: "fas fa-fw fa-phone"
-      url: "https://"
+      url: "https://anchor.fm/brentandskye/message"
     - label: "Apple Podcasts"
       icon: "fas fa-fw fa-podcast"
       url: "https://"

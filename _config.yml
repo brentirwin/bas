@@ -63,7 +63,7 @@ author:
   links:
     - label: "Email us!"
       icon: "far fa-fw fa-envelope"
-      url: "mailto://brentandskye@gmail.com"
+      url: "mailto:brentandskye@gmail.com"
     - label: "Leave a message!"
       icon: "fas fa-fw fa-phone"
       url: "https://"
@@ -78,21 +78,6 @@ author:
       url: "https://"
     - label: "Google Podcasts"
       icon: "fab fa-fw fa-google"
-      url: "https://"
-    - label: "RSS"
-      icon: "fas fa-fw fa-rss-square"
-      url: "https://"
-
-footer:
-  links:
-    - label: "Apple Podcasts"
-      icon: "fab fa-fw fa-apple"
-      url: "https://"
-    - label: "Spotify"
-      icon: "fab fa-fw fa-spotify"
-      url: "https://"
-    - label: "Overcast"
-      icon: "fas fa-fw fa-podcast"
       url: "https://"
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
@@ -119,16 +104,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # sidebar for all pages
-  # - scope:
-  #     path: ""
-  #   values:
-  #     sidebar:
-  #       - title: "Hello!"
-  #         text: "We're home!"
-
-
-
 
 category_archive:
   type: liquid

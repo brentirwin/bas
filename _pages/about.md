@@ -13,7 +13,7 @@ Find shownotes for every episode, download links, and even listen to the show ri
 
 ### Contact
 
-[Send an email (brentandskye@gmail.com)](mailto:brentandskye@gmail.com) or [leave us a voice message](https://anchor.fm/brentandskyke/message) if you have your own stories to tell or reactions to share! We just might include your message on the show!
+[Send an email (brentandskye@gmail.com)](mailto:brentandskye@gmail.com) or [leave us a voice message](https://anchor.fm/brentandskyke/message) if you have your own stories to tell or reactions to share!
 
 ### Listen
 

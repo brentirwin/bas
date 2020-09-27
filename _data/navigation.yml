@@ -1,5 +1,7 @@
 main:
   - title: "Episodes"
     url: /
+  - title: "Subscribe"
+    url: /subscribe/
   - title: "About"
     url: /about/

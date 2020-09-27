@@ -25,9 +25,20 @@
 	.fa-google {
 		color: #d75040;
 	}
+	.fa-anchor {
+		color: #7f4af1;
+	}
 	.do-not-show {
 		display: none;
 	}
+}
+
+.subscribe-page {
+	i {
+		padding-right: 1em;
+		width: 2em;
+	}
+
 }
 
 @media (min-width: 64em) { .sidebar {

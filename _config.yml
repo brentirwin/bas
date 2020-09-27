@@ -82,6 +82,9 @@ author:
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
       url: "https://anchor.fm/s/9c24440/podcast/rss"
+    - label: "and more!"
+      icon: "fas fa-fw fa-ellipsis-v"
+      url: "https://brentandskye.com/subscribe/"
 
 
 defaults:

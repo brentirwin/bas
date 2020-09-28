@@ -55,7 +55,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-redirect-form
+  - jekyll-redirect-from
 
 author:
   name   : "The Brent and Skye Show!"

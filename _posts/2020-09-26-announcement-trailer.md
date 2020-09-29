@@ -11,6 +11,7 @@ Please subscribe using the links in the sidebar!
 <div class="social-icons subscribe-page" markdown="1">
 * [<i class="fas fa-fw fa-podcast"></i>Apple Podcasts](https://podcasts.apple.com/us/podcast/the-brent-and-skye-show/id1533559367?uo=4)
 * [<i class="fab fa-fw fa-spotify"></i>Spotify](https://open.spotify.com/show/2GN8qunfJUj9JWmKcCc71v)
+* [<i class="fas fa-fw fa-ellipsis-v"></i>and more!](https://brentandskye.com/subscribe)
 </div>
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5APfBImbqucCMhQ72etE5S" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

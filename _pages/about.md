@@ -19,4 +19,6 @@ Find shownotes for every episode, download links, and even listen to the show ri
 
 <!-- <iframe src="https://anchor.fm/brentandskye/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe> -->
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/the-brent-and-skye-show/id1533559367"></iframe>
+
 <iframe src="https://open.spotify.com/embed-podcast/show/2GN8qunfJUj9JWmKcCc71v" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
